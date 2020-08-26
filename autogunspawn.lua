@@ -1,4 +1,4 @@
-if game.Players.LocalPlayer.UserId == "1191567359" then
+if game.Players.LocalPlayer.Name == "Shadows_Overlord" then
     local slot1 = "M9"
     local slot2 = "M4A1"
     local slot3 = "Remington 870"
